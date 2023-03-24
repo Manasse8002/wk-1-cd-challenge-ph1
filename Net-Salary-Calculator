@@ -163,8 +163,8 @@ const salary =  parseInt(prompt("Enter salary"));
          document.getElementById("result").innerHTML = parseFloat(1300 ).toFixed(2)
          return parseFloat(1300 ).toFixed(2)
      }
-
-     else if(firstsalary >= 70000 && firstsalary <= 79999){
+     wk-1-cd-challenge-ph1
+      if(firstsalary >= 70000 && firstsalary <= 79999){
          document.getElementById("result").innerHTML = parseFloat(1400 ).toFixed(2)
          return parseFloat(1400 ).toFixed(2)
      }
